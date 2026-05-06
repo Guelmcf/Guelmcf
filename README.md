@@ -1,7 +1,7 @@
 ## Hi, I'm Miguel 👋
 
 Software Engineering student based in Belo Horizonte, Brazil.  
-Currently focused on becoming a full-stack developer by building real-world projects — not tutorials.
+Currently focused on becoming a full-stack developer by building real-world projects
 
 I prioritize understanding what I build, from API design to database structure, and aim to ship clean, functional, and maintainable systems.
 
