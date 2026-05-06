@@ -1,13 +1,13 @@
-## Hi, I'm Miguel 👋
+## Olá, eu sou o Miguel 👋
 
-Software Engineering student based in Belo Horizonte, Brazil.  
-Currently focused on becoming a full-stack developer by building real-world projects
+Estudante de Engenharia de Software em Belo Horizonte, Brasil.  
+Atualmente focado em me tornar desenvolvedor full-stack construindo projetos reais.
 
-I prioritize understanding what I build, from API design to database structure, and aim to ship clean, functional, and maintainable systems.
+Busco entender profundamente o que desenvolvo, desde o design de APIs até a modelagem de banco de dados, com foco em criar sistemas funcionais, organizados e de fácil manutenção.
 
 <hr />
 
-🛠️ Tech Stack
+🛠️ Tecnologias
 
 **Frontend**
 - React, Next.js
@@ -21,27 +21,27 @@ I prioritize understanding what I build, from API design to database structure, 
 - Prisma ORM
 - Supabase
 
-**Tools & Workflow**
-- Git & GitHub
+**Ferramentas e Workflow**
+- Git e GitHub
 - VS Code
-- REST APIs
-- Feature branches & Conventional Commits
+- APIs REST
+- Feature branches e Conventional Commits
 
 <hr />
 
-🚧 Current Focus
+🚧 Foco Atual
 
-- Strengthening backend fundamentals (APIs, databases, architecture)
-- Building full-stack projects with real use cases
-- Improving code quality and consistency
+- Fortalecendo fundamentos de backend (APIs, banco de dados e arquitetura)
+- Construindo projetos full-stack com aplicações práticas
+- Evoluindo qualidade e consistência de código
 
 <hr />
 
-📫 Contact
+📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/miguel-figueiredo-2523092b6
 - Email: guelmcf@gmail.com
 
 <p align="center">
-  <i>Open to internship opportunities — let's connect.</i>
+  <i>Aberto a oportunidades de estágio em desenvolvimento — vamos conversar.</i>
 </p>
